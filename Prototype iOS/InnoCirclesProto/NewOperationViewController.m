@@ -1,4 +1,4 @@
-//  ++
+//  --
 //  NewOperationViewController.m
 //  InnoCirclesProto
 //
