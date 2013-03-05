@@ -1,4 +1,4 @@
 .r
 for a in (1:10):
-	print ("chibre")
-	print ("le chibre c/'est cool")
+	print ("bonjour")
+	print ("bonjour bonjour")
