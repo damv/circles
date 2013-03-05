@@ -1,4 +1,6 @@
 <?php
 
 echo 'Encore du chibre';
-echo 'Ceci est sur la branche Chibre';
+echo 'Ceci n\' est plus sur la branche' ;
+echo " Et puis aussi je sais plus parler français soggzekgnkgjs ifergbezoghzlfhztgiohzemvizmtgihamzpémofe	ziafgpohmhjmfdrgfmbjmimvhqsmvkaekghmivh:fn:VHA%IFH%BIH	MRIOVHQDSMGmmoighmoivhfiqCHMZOFHMivh	fiùPFOH	FKLcnfncm,lfjmighqlfhfmiamighalsuvhbzemighaeùrpfhùfihg";
+
