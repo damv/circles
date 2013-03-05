@@ -1,0 +1,4 @@
+.r
+for a in (1:10):
+	print ("bonjour")
+	print ("bonjour bonjour")
